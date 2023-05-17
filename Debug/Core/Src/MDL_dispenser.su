@@ -1,0 +1,4 @@
+../Core/Src/MDL_dispenser.c:8:6:MDL_dispenser_init	4	static
+../Core/Src/MDL_dispenser.c:14:6:Dispenser	16	static
+../Core/Src/MDL_dispenser.c:24:6:sumator	16	static
+../Core/Src/MDL_dispenser.c:28:6:TociPressed	8	static

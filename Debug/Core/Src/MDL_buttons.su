@@ -1,0 +1,3 @@
+../Core/Src/MDL_buttons.c:16:6:MDL_buttons_init	16	static
+../Core/Src/MDL_buttons.c:35:6:BUTTON_CHECK	16	static
+../Core/Src/MDL_buttons.c:63:6:MDL_Buttons_Handler	16	static

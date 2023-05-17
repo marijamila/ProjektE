@@ -1,0 +1,9 @@
+../Core/Src/MDL_lcd.c:27:6:MDL_LCD_Bttn_Pressed	16	static
+../Core/Src/MDL_lcd.c:132:6:MDL_LCD_Hit_Update	16	static
+../Core/Src/MDL_lcd.c:213:6:MDL_LCD_Init	8	static
+../Core/Src/MDL_lcd.c:235:6:LCD_Add_Player	24	static
+../Core/Src/MDL_lcd.c:247:6:change_LCD_screenstate	8	static
+../Core/Src/MDL_lcd.c:280:6:LCD_State_WELCOME	8	static
+../Core/Src/MDL_lcd.c:290:6:LCD_State_NUM_OF_PLAYERS	8	static
+../Core/Src/MDL_lcd.c:315:6:LCD_State_WIN	40	static
+../Core/Src/MDL_lcd.c:360:6:LCD_State_PLAYERS	40	static

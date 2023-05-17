@@ -1,0 +1,6 @@
+../Core/Src/MDL_led.c:25:6:MDL_leds_init	16	static
+../Core/Src/MDL_led.c:32:6:set_LED	16	static
+../Core/Src/MDL_led.c:39:6:send	24	static
+../Core/Src/MDL_led.c:71:6:MDL_leds_next_round	16	static
+../Core/Src/MDL_led.c:99:6:MDL_leds_scored	24	static
+../Core/Src/MDL_led.c:133:6:MDL_leds_win	16	static

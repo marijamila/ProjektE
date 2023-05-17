@@ -1,0 +1,9 @@
+../Core/Src/MDL_sensors.c:31:6:MDL_sensors_init	16	static
+../Core/Src/MDL_sensors.c:50:6:MDL_sensors_handler	8	static,ignoring_inline_asm
+../Core/Src/MDL_sensors.c:86:6:MDL_sensors_startSensorCalibration	4	static
+../Core/Src/MDL_sensors.c:94:6:sensors_calibrateSensors	16	static
+../Core/Src/MDL_sensors.c:107:6:sensors_calculateCurrentDataForCalibration	16	static
+../Core/Src/MDL_sensors.c:120:6:sensors_determineIfSensorsDetectedObject	16	static
+../Core/Src/MDL_sensors.c:136:6:sensors_checkSensorState	16	static
+../Core/Src/MDL_sensors.c:156:6:sensors_calculateCurrentData	16	static
+../Core/Src/MDL_sensors.c:173:6:HAL_ADC_ConvCpltCallback	16	static
