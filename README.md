@@ -9,5 +9,3 @@ FERpong je grupni projekt za predmet ProjektE, na 3. godini preddiplomskog studi
 - Marta Kekez
 - Marija Milanović
 - Marko Srpak
-
-Ovaj repozitorij je forkan od originala. Dodana je finalna verzija u branch Main.
